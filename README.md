@@ -20,5 +20,7 @@ Minimize bulk for users who are going to throw their own stuff on it anyway. Don
 
 # Credits
 [@ohaiibuzzle](https://github.com/ohaiibuzzle)
+
 [Original Works](https://github.com/ohaiibuzzle/alpine_kindle/tree/senpai/kual-extension)_
+
 [Discord Thread](https://discord.com/channels/1083603487025274911/1440969313061306409/1440969313061306409)
