@@ -22,7 +22,9 @@ Minimize bulk for users who are going to throw their own stuff on it anyway. Don
 
 
 
-# Credits
+# Credits/Other Info
+This software is hosted under the UNLICENSE license and no rights are reserved, although I would prefer you give credit to me, thanks in advance.
+
 [@ohaiibuzzle](https://github.com/ohaiibuzzle)
 
 [Original Works](https://github.com/ohaiibuzzle/alpine_kindle/tree/senpai/kual-extension)
