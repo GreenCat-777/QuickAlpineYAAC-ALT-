@@ -22,11 +22,15 @@ Minimize bulk for users who are going to throw their own stuff on it anyway. Don
 
 
 
-# Credits/Other Info
-This software is hosted under the UNLICENSE license and no rights are reserved, although I would prefer you give credit to me, thanks in advance.
-
+# Credits
 [@ohaiibuzzle](https://github.com/ohaiibuzzle)
 
 [Original Works](https://github.com/ohaiibuzzle/alpine_kindle/tree/senpai/kual-extension)
 
 [Discord Thread](https://discord.com/channels/1083603487025274911/1440969313061306409/1440969313061306409)
+
+# License
+This project is released into the public domain under The Unlicense.
+No rights reserved.
+
+Attribution is appreciated but not required.
