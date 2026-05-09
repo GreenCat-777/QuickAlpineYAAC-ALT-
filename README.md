@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11TVK1A)
+
 # IMPORTANT INFO
 ARMHF only
 Make sure you know what you're doing
